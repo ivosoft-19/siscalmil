@@ -1,0 +1,5 @@
+{
+  "name": "SiscalMil - Sistema de Escala Militar 24/96",
+  "description": "Sistema avançado para gestão de escalas militares de 24h por 96h, gerenciando efetivo de 80 militares, afastamentos, patentes e geração automática de postos (Comandante, Auxiliar, Motorista, Patrulheiro e Permanência).",
+  "requestFramePermissions": []
+}
